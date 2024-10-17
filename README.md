@@ -1,1 +1,1 @@
-В репозитории размещены проекты, выполненные в процессе обучения на платформe karpov.courses по направлениям "Аналитик данных" и "Симулятор аналитика" (https://karpov.courses/analytics?_gl=1*mjurlz*_ga*MTQ4NTYwNTAxNS4xNjk1NTkyMjU2*_ga_DZP7KEXCQQ*MTcyODYzMTc4Mi4xNTMuMS4xNzI4NjMyMTU1LjYwLjAuMA..).
+В репозитории размещены проекты, выполненные в процессе обучения на платформe karpov.courses по направлению "Аналитик данных" (https://karpov.courses/analytics?_gl=1*mjurlz*_ga*MTQ4NTYwNTAxNS4xNjk1NTkyMjU2*_ga_DZP7KEXCQQ*MTcyODYzMTc4Mi4xNTMuMS4xNzI4NjMyMTU1LjYwLjAuMA..).
